@@ -1,6 +1,5 @@
-Side Project
+What's Next App
 ============
-Kei Fukutani
 
 ## Goal
 This app allows user to know the tendency of following words.  
